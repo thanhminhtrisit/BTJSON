@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Camera IP 360 Độ 3MP IMOU TA....",
+    "brand": "Ezviz",
+    "price": 470000,
+    "imageUrl": "https://example.com/image1.jpg",
+    "rating": 4.9,
+    "shortDescription": "Camera giám sát ngoài trời, độ phân giải Full HD",
+    "discount": 2.7,
+    "category": "Camera"
+  },
+  {
+    "id": 2,
+    "name": "Camera IP Wifi Ngoài Trời Ezviz C6N 1080p ....",
+    "brand": "Ezviz",
+    "price": 799000,
+    "imageUrl": "https://example.com/image2.jpg",
+    "rating": 4.8,
+    "shortDescription": "Camera quay quét 360°, độ phân giải Full HD",
+    "discount": 10.0,
+    "category": "Camera"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "TECNO Pova 6 - RAM 8+8GB - 256GB",
+    "brand": "TECNO",
+    "price": 5299000,
+    "rating": 5.0,
+    "description": "Điện thoại cấu hình mạnh, pin trâu, camera chất lượng.",
+    "images": [
+      "https://example.com/pova6-gray.jpg",
+      "https://example.com/pova6-back.jpg",
+      "https://example.com/pova6-blue.jpg"
+    ],
+    "promotion": "Miễn phí vận chuyển + Voucher 200K",
+    "category": "Smartphone"
+  }
+]
